@@ -1,4 +1,4 @@
-#Playng with Doubles#
+#Playing with Doubles#
 
 This is a really simple kata to help you understand doubles.
 
